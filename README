@@ -1,0 +1,12 @@
+Libraries needed PyTorch scipy numpy matplotlib Versions can be found in pip_installed_libs.txt
+
+To Run the code:
+1. cd Experiments
+2. python graph_coloring_pt_vhyper.py
+3. python graph_coloring_vectorized_pt.py
+4. python graph_coloring_vectorized.py
+5. python graph_coloring_vhyper.py
+6. python tsp_ising.py
+7. python tsp_vectorized.py
+
+
